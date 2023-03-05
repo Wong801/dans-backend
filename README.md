@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is an express-based REST API that acts as a management system for Gemilang Synergy's product.
+This is an express-based REST API
 
 ## Brief list of ENV Variables
 
