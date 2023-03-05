@@ -1,0 +1,7 @@
+dist
+node_modules
+coverage
+junit.xml
+.env
+.vscode
+.DS_Store
